@@ -1,6 +1,6 @@
 15.05.2019
 Als Prozessbeobachter wurde Samah ausgewählt.
-Es wurde abgestimmt durch E-Mail,Whatsapp, Chat auf Codesandbox zu kommunizieren, daher haben wir unser private E-mails ausgetauscht, da einer der projekteilnehmer "Anan" technisches Problem mit der Schuleemail.
+Es wurde abgestimmt durch E-Mail,Whatsapp, Chat auf Codesandbox zu kommunizieren, daher haben wir unser private E-mails ausgetauscht, sodass wir benachrichtegt weden wenn eine E-mail ankommt.
 Die Aufgaben wurden so geteilt:
 Arturs und Anas kümmern sich um Backend, Samah und Mohammed Frontend, um Dokumentation kümmern sich alle Projektteilnehmer.
-Jeder muss swöchentlich berichten, wie weit man mit seiner Aufgabe ist.
+Jeder muss wöchentlich berichten, wie weit man mit seiner Aufgabe ist.
